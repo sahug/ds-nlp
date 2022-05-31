@@ -1,4 +1,6 @@
 **Table**
+|Project|Coverage|
+|-----|-----|
 |NLP - Session 1 - Introduction and Spam Text Message Classification|RandomForestClassifier, Pipeline, TfidfVectorizer, Word2Vec, GridSearchCV, LGBMclassifier|
 |NLP - Session 2 - Working with Text files|Open, Read, Seek, ReadLine, ReadLines, Close, Strip, Enumerate, File Writing|
 |NLP - Session 3 - Text Extraction From PDF File|PyPDF2, PdfFileWriter|
